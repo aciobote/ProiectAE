@@ -1,0 +1,222 @@
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\appsettings.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.staticwebassets.runtime.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.exe
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.deps.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.runtimeconfig.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.pdb
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\OpenSSL.PrivateKeyDecoder.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\OpenSSL.X509Certificate2.Provider.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\PayPal.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\CloudrailSI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.AssemblyReference.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.AssemblyInfoInputs.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.AssemblyInfo.cs
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.RazorAssemblyInfo.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.RazorAssemblyInfo.cs
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.Proiect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\bundle\Proiect.styles.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\projectbundle\Proiect.bundle.scp.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.CopyComplete
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\refint\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.pdb
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.genruntimeconfig.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\ref\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\appsettings.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.staticwebassets.runtime.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.exe
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.deps.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.runtimeconfig.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.pdb
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\OpenSSL.PrivateKeyDecoder.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\OpenSSL.X509Certificate2.Provider.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\PayPal.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\CloudrailSI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.AssemblyReference.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.AssemblyInfoInputs.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.AssemblyInfo.cs
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.RazorAssemblyInfo.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.RazorAssemblyInfo.cs
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.Proiect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\bundle\Proiect.styles.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\projectbundle\Proiect.bundle.scp.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.CopyComplete
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\refint\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.pdb
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.genruntimeconfig.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Copy\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\ref\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\appsettings.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.staticwebassets.runtime.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.exe
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.deps.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.runtimeconfig.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Proiect.pdb
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\OpenSSL.PrivateKeyDecoder.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\OpenSSL.X509Certificate2.Provider.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\PayPal.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\CloudrailSI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.AssemblyReference.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.AssemblyInfoInputs.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.AssemblyInfo.cs
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.RazorAssemblyInfo.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.RazorAssemblyInfo.cs
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.Proiect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proiect.props
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\bundle\Proiect.styles.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\scopedcss\projectbundle\Proiect.bundle.scp.css
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.csproj.CopyComplete
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\refint\Proiect.dll
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.pdb
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\Proiect.genruntimeconfig.cache
+C:\Users\Consuela Cioboteanu\Desktop\ProiectAfaceriElectronice - Cioboteanu Andreea\MasterBDSA\MasterBDSA\Seminar 2\obj\Debug\net7.0\ref\Proiect.dll
